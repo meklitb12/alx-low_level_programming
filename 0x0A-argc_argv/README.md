@@ -1,1 +1,1 @@
-rguments
+static library
